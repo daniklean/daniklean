@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Luis Daniel</h1>
 <h3 align="center">One more software developer, I'm from Caracas/Venezuela</h3>
 <h3 align="center">Blockchain Software, Backend and Coffee Lover.</h3>
-<img align="right" alt="Coding" width="600" src="https://ludovicwyffels.dev/static/8b378c07791d424a4afbd8bf14b92449/5707d/node-js-ts.png">
+<img align="right" alt="Coding" width="450" height="400" src="https://ludovicwyffels.dev/static/8b378c07791d424a4afbd8bf14b92449/5707d/node-js-ts.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniklean&label=Profile%20views&color=0e75b6&style=flat" alt="daniklean" /> </p>
 
