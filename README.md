@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Solidity, NodeJS and life**
 
+- Recent Projects: [Chiguire Rates Quotes](https://t.me/ChiguirePricesBot)
+
 - 📫 How to reach me **danielvieras10@gmail.com**
 
 - ⚡ Fun fact **I never stop learning something new**
