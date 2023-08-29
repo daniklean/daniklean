@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniklean&label=Profile%20views&color=0e75b6&style=flat" alt="daniklean" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,NestJS,Go,Rust**
+- 🌱 I’m currently learning **Front library: ReactJS : Languajes: Go & Rust**
 
 - 👯 I was a contributor at [Código en casa](https://app.codigoencasa.com/)
 
